@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Arabic UI assistant",
+    "prompt": "Create a clean Arabic RTL dashboard layout for a student productivity app. Keep it modern, readable, and responsive.",
+    "tags": ["rtl", "ui", "arabic"]
+  },
+  {
+    "title": "File organizer",
+    "prompt": "Design a safe desktop file organizer that previews changes before renaming or moving files. Include undo support.",
+    "tags": ["desktop", "automation", "files"]
+  }
+]

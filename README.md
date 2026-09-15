@@ -25,3 +25,8 @@ Open `web/prompt-playground.html` in a browser for the front-end demo.
 ## Project goal
 
 This repository is intentionally small, readable, and useful. It shows how AI-related tooling can be organized without requiring paid APIs or external services.
+
+## Official links
+
+- Portfolio: https://rdwan.dev
+- Project page: https://rdwan.dev/projects/05-ai-tools-lab.html

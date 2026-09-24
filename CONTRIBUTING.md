@@ -1,13 +1,14 @@
-# Contributing
+# Contributing / المساهمة
 
-Thanks for contributing to **ai-tools-lab**.
+Thanks for improving AI Tools Lab. / شكراً للمساهمة في تطوير المشروع.
 
-## Workflow
+1. Create a focused branch and keep changes small.
+2. Install development tools with `python -m pip install -e . pytest`.
+3. Run `python -m compileall -q src tests` and `pytest` before submitting.
+4. Add tests for behavior changes and keep runtime dependencies minimal.
+5. Never commit prompts containing private data, credentials, tokens, or API keys.
+6. Update both English and Arabic README sections when user-facing behavior changes.
 
-1. Fork or create a feature branch.
-2. Keep each change focused and easy to review.
-3. Explain what changed and why in the pull request.
-4. Include any relevant test or verification steps.
-5. Avoid committing secrets, credentials, generated artifacts, or unrelated files.
+Please explain the problem, implementation, and validation in pull requests.
 
-Small, clear improvements are welcome.
+للمساهمات العربية: وضّح المشكلة والحل وطريقة الاختبار، ولا تضف أسراراً أو بيانات شخصية إلى الأمثلة أو الاختبارات.
